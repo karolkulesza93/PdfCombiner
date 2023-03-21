@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfCombiner", "PdfCombiner\PdfCombiner.csproj", "{BE69145E-089D-4F6C-8183-ECCEA454BF93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE69145E-089D-4F6C-8183-ECCEA454BF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE69145E-089D-4F6C-8183-ECCEA454BF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE69145E-089D-4F6C-8183-ECCEA454BF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE69145E-089D-4F6C-8183-ECCEA454BF93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F29208EC-FCBD-4B86-ADC3-3DFF0DD95E94}
+	EndGlobalSection
+EndGlobal
